@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pocketssss
 - 👀 I’m interested in medical 
 - 🌱 I’m currently learning lua, c+, с#
-- 💞️ I’m looking to collaborate on minecraft
-- 📫 How to reach me node js 
+- 💞️ I’m looking to collaborate on Mojang
